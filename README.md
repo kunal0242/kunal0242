@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal Kumar
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Java, C#, Unity and Swift
+- 🌱 I Know bascis of Programming.
 - 💞️ I’m looking to collaborate on above mentioned technologies
 - 📫 You can reach me at my email : kunal0242@gmail.com / kunaljmit036@gmail.com
 
